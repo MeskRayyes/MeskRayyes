@@ -32,8 +32,9 @@ I enjoy designing test strategies, improving workflows, and collaborating with t
 
 ---
 ## 💬 Let’s Build Something Amazing
-🚀 I love collaborating with fellow testers, developers, and problem-solvers.  
-If you're working on a project or have a cool idea, let’s connect and build it together!  
+🚀I love collaborating in **Agile environments**, where teamwork and communication are the keys to success.  
+My passion is in **QA and software testing** — from **manual testing and API validation** to **automation and documentation**.  
+Working together with developers, testers, and problem-solvers inspires me to deliver **high-quality, reliable software**.   
 👉 [Reach out to me](mailto:miskrayyes2002@gmail.com)  
 
 ### 🤝 Connect
