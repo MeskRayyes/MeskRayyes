@@ -16,11 +16,24 @@ I love learning new tools, improving testing workflows, and collaborating with t
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeskRayyes&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeskRayyes&layout=compact&langs_count=8&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeskRayyes&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeskRayyes&layout=compact&langs_count=8&theme=radical" height="160" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeskRayyes&theme=radical" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeskRayyes&radius=8&theme=radical" />
+</p>
+
+
 ---
+## 💬 Let’s Build Something Amazing
+🚀 I love collaborating with fellow testers, developers, and problem-solvers.  
+If you're working on a project or have a cool idea, let’s connect and build it together!  
+👉 [Reach out to me](mailto:miskrayyes2002@gmail.com)  
 
 ### 🤝 Connect
 <p align="center">
