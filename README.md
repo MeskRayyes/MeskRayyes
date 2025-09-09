@@ -9,8 +9,7 @@
 I focus on ensuring software quality through **manual, API, database, automation, and mobile testing**.  
 I enjoy designing test strategies, improving workflows, and collaborating with teams to deliver reliable, user-friendly software.  
   
-
-💡 Currently working with **Java,Selenium, TestNG, Postman**.  
+  
 🌟 I believe in **quality, teamwork, and continuous learning** as the keys to building better software.  
 
 ---
